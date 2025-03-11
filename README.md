@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jenny
 
-<p> 💻 Passionate software developer with a focus on web development and automation. </p> 
+<p> 💻 Passionate software developer with a focus on web development. </p> 
 <p>🚀 Skilled in </p>
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
